@@ -6,4 +6,14 @@
 }
 .app__body {
   display: flex;
+  /* flex: 0 0 100%;
+  max-width: 100%;
+  position: relative; */
+  width: 75%;
+  /* min-height: 1px;
+  padding-left: 150px;
+  padding-right: 150px;
+  margin-left: 150px;
+  margin-right: 150px; */
 }
+
